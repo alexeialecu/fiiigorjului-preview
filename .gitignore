@@ -1,0 +1,3 @@
+askpass.*
+*.token
+.env
